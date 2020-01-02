@@ -1,0 +1,30 @@
+{
+  "id": "1499966",
+  "name": "project2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1365527",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11474196",
+      "name": "cart- full",
+      "font_class": "cart-full",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "11474211",
+      "name": "arrow-lift",
+      "font_class": "arrow-lift",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    }
+  ]
+}
