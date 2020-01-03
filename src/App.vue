@@ -51,7 +51,6 @@
 
     watch: {
     $route(to,from){
-
       // 切换动画
       let isBack = this.$router.isBack; // 监听路由变化时的状态为前进还是后退
       if (isBack) {
